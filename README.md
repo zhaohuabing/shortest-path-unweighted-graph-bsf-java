@@ -1,5 +1,5 @@
 # shortest-path-unweighted-graph-bsf-java
-Find the shortest path between two nodes in an unweighted graph based on breadth first search
+Find the shortest path between two nodes in an unweighted graph based on breadth first search algorithm
 
 test case
 
